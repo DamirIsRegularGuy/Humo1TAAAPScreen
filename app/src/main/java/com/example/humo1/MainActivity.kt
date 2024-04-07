@@ -64,9 +64,7 @@ class MainActivity : AppCompatActivity() {
             }
         }
 
-        switcher?.setOnCheckedChangeListener { buttonView, isChecked ->
-            Snackbar.make(buttonView, isChecked.toString(), Snackbar.LENGTH_SHORT).show()
-        }
+
 
         colorgroup?.setOnCheckedChangeListener { group, checkedId ->
             when(checkedId){
