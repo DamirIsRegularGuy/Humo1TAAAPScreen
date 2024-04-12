@@ -232,8 +232,14 @@
             android:layout_marginTop="248dp"
             android:layout_marginBottom="150dp"
             android:text="thed" />
-    </RelativeLayout>
 
+
+    </RelativeLayout>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/second_button"
+        />
 </LinearLayout>
 </ScrollView>
 
