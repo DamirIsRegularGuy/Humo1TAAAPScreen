@@ -18,14 +18,14 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
                 android:layout_marginStart="28dp"
-                android:src="@drawable/ellipse"
+                android:src="@drawable/arry"
                 />
 
             <ImageView
                 android:id="@+id/fon"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:src="@drawable/ellips"
+                android:src="@drawable/elly"
                 android:layout_marginStart="124dp"
                 android:layout_marginTop="54dp"/>
 
