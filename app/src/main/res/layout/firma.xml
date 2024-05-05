@@ -149,11 +149,11 @@
                             android:textSize="24sp" />
 
                         <ImageView
-                            android:layout_width="10dp"
-                            android:layout_height="10dp"
+                            android:layout_width="6dp"
+                            android:layout_height="7dp"
                             android:layout_alignTop="@id/text_view_task_1_label"
-                            android:layout_marginStart="2dp"
-                            android:layout_marginTop="8dp"
+                            android:layout_marginStart="6dp"
+                            android:layout_marginTop="11dp"
                             android:layout_toEndOf="@id/text_view_task_1_label"
                             android:src="@drawable/ic_task"
                             app:tint="#403572" />
